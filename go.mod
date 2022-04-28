@@ -1,4 +1,4 @@
-module github.com/hasnatsaeed/go-bankin-lib
+module github.com/hasnatsaeed/go-banking-lib
 
 go 1.17
 
